@@ -29,6 +29,13 @@ gem 'foundation-rails', '~> 5.5', '>= 5.5.3.2'
 # IJLS package to upload files
 gem 'paperclip', '~> 4.3', '>= 4.3.2'
 
+# IJLS package to authentications
+gem 'devise', '~> 4.1', '>= 4.1.0'
+
+# IJLS Emulador de correo electronico
+# Emulator email
+gem 'letter_opener', '~> 1.4', '>= 1.4.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
