@@ -26,6 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # IJLS Add the following line to Gemfile and save it
 gem 'foundation-rails', '~> 5.5', '>= 5.5.3.2'
 
+# IJLS package to upload files
+gem 'paperclip', '~> 4.3', '>= 4.3.2'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
